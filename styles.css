@@ -9,3 +9,7 @@ td {
     margin: 1px;
     background-color: #eeeeee;
 }
+
+.date {
+    white-space: nowrap;
+}
